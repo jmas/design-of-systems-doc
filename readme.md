@@ -1,6 +1,7 @@
 # Букварь по дизайну систем (Часть 1 с дополнениями по микросервисам)
 
-Оригинал: https://habr.com/ru/post/501366/
+* Перевод взят отсюда: https://habr.com/ru/post/501366/
+* Оригинал: https://github.com/donnemartin/system-design-primer
 
 ### Словарь
 
